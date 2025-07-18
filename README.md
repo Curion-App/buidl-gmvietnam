@@ -321,7 +321,7 @@ npm run demo:custom
 - **Presentation**: [Coming Soon]
 
 ### 👥 Get In Touch
-- **Email**: team@curion.protocol
+- **Email**: team@curion.app
 - **Twitter**: @CurionProtocol
 - **Discord**: Join our community
 - **GitHub**: This repository
