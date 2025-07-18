@@ -13,6 +13,10 @@
 
 Curion Protocol is a next-generation decentralized prediction market platform that enables users to create, trade, and resolve prediction markets on any topic. Built on Aptos blockchain, we leverage Move's safety guarantees and Aptos's high throughput to deliver the best prediction market experience.
 
+Web: https://github.com/geekybot/curion-web
+Aptos Modules: https://github.com/Curion-App/curion-modules
+USDC and Faucet Modules: https://github.com/Curion-App/curion-usdc
+
 ### 🎯 Core Features
 
 - **🏭 Automated Market Making**: Sophisticated AMM algorithms for instant liquidity
